@@ -66,9 +66,8 @@ html{
 	padding: 10px 10px;
 }
 .Card-Film:hover .img-of-card{
-	scale: 1.06;
 	cursor: pointer;
-	transform: translateY(5px);
+	transform: translateY(5px) scale(1.06);
 }
 .Card-Film h2{
 	font-size: 10px;
