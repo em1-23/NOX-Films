@@ -353,6 +353,66 @@ export const films =[
 		id:58,
 		NameOfFilm:"The Punisher one last kill",
 		FilmsLink:"https://www.playimdb.com/title/tt36042156/",
-		FilmPhoto:" https://i.pinimg.com/736x/1a/65/30/1a6530db759138a0874d3c40044bdcc7.jpg"
+		FilmPhoto:"https://i.pinimg.com/736x/1a/65/30/1a6530db759138a0874d3c40044bdcc7.jpg"
+	},
+	{
+		id:59,
+		NameOfFilm:"Mission Impossible (1996)",
+		FilmsLink:"https://www.playimdb.com/title/tt0117060/",
+		FilmPhoto:"https://i.pinimg.com/1200x/f9/0f/d0/f90fd0642a1050a89372c32b18a48fb1.jpg"
+	},
+	{
+		id:60,
+		NameOfFilm:"Mission Impossible II (2000)",
+		FilmsLink:"https://www.playimdb.com/title/tt0120755/",
+		FilmPhoto:"https://i.pinimg.com/1200x/55/02/1b/55021b6b6695f5d1e95dc78938592aa7.jpg"
+	},
+	{
+		id:61,
+		NameOfFilm:"Mission Impossible III (2006)",
+		FilmsLink:"https://www.playimdb.com/title/tt0317919/",
+		FilmPhoto:"https://i.pinimg.com/736x/1d/a8/e1/1da8e129faf0d3e670b8c997b883a06f.jpg"
+	},
+	{
+		id:62,
+		NameOfFilm:"Mission Impossible Ghost Protocol",
+		FilmsLink:"https://www.playimdb.com/title/tt1229238/",
+		FilmPhoto:"https://i.pinimg.com/1200x/c9/c5/5c/c9c55ca2c6647331aa4cf744c45c8a30.jpg"
+	}	,
+	{
+		id:63,
+		NameOfFilm:"Mission Impossible Rogue Nation",
+		FilmsLink:"https://www.playimdb.com/title/tt2381249/",
+		FilmPhoto:"https://i.pinimg.com/736x/cb/9e/39/cb9e39eb81be5214856b68ddb8bd958f.jpg"
+	}	,
+	{
+		id:64,
+		NameOfFilm:"Mission Impossible Fallout",
+		FilmsLink:"https://www.playimdb.com/title/tt4912910/",
+		FilmPhoto:"https://i.pinimg.com/1200x/e8/03/c3/e803c301c5c16cafbf4c182e473b6c03.jpg"
+	}	,
+	{
+		id:65,
+		NameOfFilm:"Mission Dead Reckoning Part One",
+		FilmsLink:"https://www.playimdb.com/title/tt9603212/",
+		FilmPhoto:"https://i.pinimg.com/736x/35/96/7e/35967e56735c61134043bb1e82e7537b.jpg"
+	}	,
+	{
+		id:66,
+		NameOfFilm:"The Marvels",
+		FilmsLink:"https://www.playimdb.com/title/tt10676048/",
+		FilmPhoto:"https://i.pinimg.com/1200x/12/98/f5/1298f5624b403e7e3da7cefaa3545767.jpg"
+	},
+	{
+		id:67,
+		NameOfFilm:"Inception",
+		FilmsLink:"https://www.playimdb.com/title/tt1375666/",
+		FilmPhoto:"https://i.pinimg.com/736x/44/0d/84/440d84a0e2d47274c66e8607509f0970.jpg"
+	},
+	{
+		id:66,
+		NameOfFilm:"The Matrix",
+		FilmsLink:"https://www.playimdb.com/title/tt0133093/",
+		FilmPhoto:"https://i.pinimg.com/1200x/da/d6/27/dad6276aee9d462f32b300529e748821.jpg"
 	}		
 ];
