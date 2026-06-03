@@ -306,5 +306,17 @@ export const films =[
 		NameOfFilm:"Zathura: A Space Adventure Full",
 		FilmsLink:"https://www.playimdb.com/title/tt0406375/",
 		FilmPhoto:"https://i.pinimg.com/1200x/57/d7/80/57d7806a04b2e0cd84477350b732f27b.jpg"
+	}	,
+	{
+		id:51,
+		NameOfFilm:"Hotel Transylvania",
+		FilmsLink:"https://www.playimdb.com/title/tt0837562/",
+		FilmPhoto:"https://i.pinimg.com/736x/a5/9f/b5/a59fb51d1f4a96ccce614e5f9e801368.jpg"
+	}	,
+	{
+		id:52,
+		NameOfFilm:"Hotel Transylvania 2",
+		FilmsLink:"https://www.playimdb.com/title/tt2510894/",
+		FilmPhoto:"https://i.pinimg.com/1200x/05/09/ad/0509ad4d200de696a28f3c28f020cc49.jpg"
 	}	
 ];
