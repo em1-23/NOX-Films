@@ -282,5 +282,29 @@ export const films =[
 		NameOfFilm:"Hawkeye",
 		FilmsLink:"https://www.playimdb.com/title/tt10160804/",
 		FilmPhoto:"https://i.pinimg.com/736x/6c/0d/c5/6c0dc5abae448b8b76ad4703bf190d88.jpg"
+	},
+	{
+		id:47,
+		NameOfFilm:"Batman The Dark Knight",
+		FilmsLink:"https://www.playimdb.com/title/tt2098632/",
+		FilmPhoto:"https://i.pinimg.com/1200x/5f/fe/79/5ffe79003530da912a82acac80be1426.jpg"
+	}	,
+	{
+		id:48,
+		NameOfFilm:"Man Of Steel",
+		FilmsLink:"https://www.playimdb.com/title/tt0770828/",
+		FilmPhoto:"https://i.pinimg.com/1200x/73/d5/f0/73d5f0bb324e53c34944b26b03051d52.jpg"
+	}	,
+	{
+		id:49,
+		NameOfFilm:"Aquaman",
+		FilmsLink:"https://www.playimdb.com/title/tt1477834/",
+		FilmPhoto:"https://i.pinimg.com/736x/d4/30/98/d43098918e2008ee8a1d71869c4bae45.jpg"
+	}	,
+	{
+		id:50,
+		NameOfFilm:"Zathura: A Space Adventure Full",
+		FilmsLink:"https://www.playimdb.com/title/tt0406375/",
+		FilmPhoto:"https://i.pinimg.com/1200x/57/d7/80/57d7806a04b2e0cd84477350b732f27b.jpg"
 	}	
 ];
