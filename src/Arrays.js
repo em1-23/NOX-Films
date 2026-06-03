@@ -356,4 +356,3 @@ export const films =[
 		FilmPhoto:" https://i.pinimg.com/736x/1a/65/30/1a6530db759138a0874d3c40044bdcc7.jpg"
 	}		
 ];
-// https://i.pinimg.com/736x/1a/65/30/1a6530db759138a0874d3c40044bdcc7.jpg
