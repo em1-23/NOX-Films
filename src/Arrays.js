@@ -318,5 +318,42 @@ export const films =[
 		NameOfFilm:"Hotel Transylvania 2",
 		FilmsLink:"https://www.playimdb.com/title/tt2510894/",
 		FilmPhoto:"https://i.pinimg.com/1200x/05/09/ad/0509ad4d200de696a28f3c28f020cc49.jpg"
-	}	
+	}	,
+	{
+		id:53,
+		NameOfFilm:"Captin Marvel",
+		FilmsLink:"https://www.playimdb.com/title/tt4154664/",
+		FilmPhoto:"https://i.pinimg.com/1200x/1c/67/0b/1c670b7ec19f21ec9d242afb4726420c.jpg"
+	}	,
+	{
+		id:54,
+		NameOfFilm:"Kung Fu Panda",
+		FilmsLink:"https://www.playimdb.com/title/tt0441773/",
+		FilmPhoto:"https://i.pinimg.com/736x/f7/9f/28/f79f28d0c5e5d73daa13b332b580e817.jpg"
+	},
+	{
+		id:55,
+		NameOfFilm:"Kung Fu Panda II",
+		FilmsLink:"https://www.playimdb.com/title/tt1302011/",
+		FilmPhoto:"https://i.playpinimg.com/736x/10/c8/13/10c81348aa157c37b7606f57b4d3ad0f.jpg"
+	},
+	{
+		id:56,
+		NameOfFilm:"Kung Fu Panda III",
+		FilmsLink:"https://www.playimdb.com/title/tt2267968/",
+		FilmPhoto:"https://i.pinimg.com/1200x/72/dc/03/72dc03f59b2856cf02185c782556de8c.jpg"
+	},
+	{
+		id:57,
+		NameOfFilm:"The Punisher",
+		FilmsLink:"https://www.playimdb.com/title/tt5675620/",
+		FilmPhoto:"https://i.pinimg.com/1200x/9b/59/77/9b5977d9045d6e753c0b40f29d466467.jpg"
+	},
+	{
+		id:58,
+		NameOfFilm:"The Punisher one last kill",
+		FilmsLink:"https://www.playimdb.com/title/tt36042156/",
+		FilmPhoto:" https://i.pinimg.com/736x/1a/65/30/1a6530db759138a0874d3c40044bdcc7.jpg"
+	}		
 ];
+// https://i.pinimg.com/736x/1a/65/30/1a6530db759138a0874d3c40044bdcc7.jpg
