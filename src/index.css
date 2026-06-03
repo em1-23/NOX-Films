@@ -1,0 +1,101 @@
+html{
+	text-align: center;
+	font-family: sans-serif;
+}
+.header{
+	display: flex;
+	gap: 15px;
+	align-items: center;
+	justify-content: space-between;
+	border-bottom-left-radius: 1rem;
+	border-bottom-right-radius: 1rem;
+	color: white;
+	background-color: #141414;
+	width: 80%;
+	margin: auto;
+	margin-top: -1%;
+	padding: 5px 50px;
+	position: sticky;
+	top: 0%;
+	z-index: 999;
+}
+.header a{
+	color: white;
+	text-decoration: none;
+	transition: all .2s ease-in-out;
+}
+.header a:hover{
+	color: #009dff;
+}
+.imgtop{
+	width: 100%;
+	height: 500px;
+	position: absolute;
+	top: 0%;
+	margin: auto;
+	z-index: -1;
+	left: 0;
+}
+.Section-About{
+	width: 80%;
+	height: auto;
+	background-color: #141414;
+	position: relative;
+	border-radius: 1rem;
+	margin: auto;
+	margin-top: 15%;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.Section-About h1{
+	background-color: #212121;
+	border-bottom-left-radius: 1rem;
+	border-bottom-right-radius: 1rem;
+	width: 200px;
+	margin: auto;
+	margin-top: -20px;
+	margin-bottom: 20px;
+	padding: 10px 20px;
+}
+.Card-Film {
+	width: 200px;
+	height: 340px;
+	background-color: #212121;
+	border-radius: .5rem;
+	padding: 10px 10px;
+}
+.Card-Film:hover .img-of-card{
+	scale: 1.06;
+	cursor: pointer;
+	transform: translateY(5px);
+}
+.Card-Film h2{
+	font-size: 10px;
+}
+.Card-Film .btn{
+	padding: 5px 20px;
+	background-color: #009dff;
+	color: white;
+	transition: all .2s ease-in-out;
+	border-radius: .3rem;
+	cursor: pointer;
+	border: none;
+	font-weight: bold;
+}
+.Card-Film .btn:hover{
+	background-color: #0084d6;
+}
+.Card-Film .img-of-card{
+	width: 95%;
+	height: auto;
+	border-radius: .5rem;
+	transition: all .5s ease;
+}
+.films{
+	display: flex;
+	gap: 40px;
+	flex-wrap: wrap;
+	padding: 0px 30px;
+	justify-content: space-between;
+}
