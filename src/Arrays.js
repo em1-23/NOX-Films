@@ -335,7 +335,7 @@ export const films =[
 		id:55,
 		NameOfFilm:"Kung Fu Panda II",
 		FilmsLink:"https://www.playimdb.com/title/tt1302011/",
-		FilmPhoto:"https://i.playpinimg.com/736x/10/c8/13/10c81348aa157c37b7606f57b4d3ad0f.jpg"
+		FilmPhoto:"https://i.pinimg.com/1200x/bd/47/47/bd4747d746dc002d8d924538e7df7d52.jpg"
 	},
 	{
 		id:56,
