@@ -246,5 +246,41 @@ export const films =[
 		NameOfFilm:"Shelby",
 		FilmsLink:"",
 		FilmPhoto:"https://i.pinimg.com/736x/c8/53/df/c853dfed1ee8381d35b607452fb3958c.jpg"
+	},
+	{
+		id:41,
+		NameOfFilm:"Black Panther",
+		FilmsLink:"https://www.playimdb.com/title/tt1825683/",
+		FilmPhoto:"https://i.pinimg.com/1200x/1c/ef/f6/1ceff67baf46562642a6b852ef0a8b53.jpg"
+	},
+	{
+		id:42,
+		NameOfFilm:"AntMan",
+		FilmsLink:"https://www.playimdb.com/title/tt0478970/",
+		FilmPhoto:"https://i.pinimg.com/736x/a0/17/c3/a017c3a63c69a8bd80a6548e01ecbebf.jpg"
+	},
+	{
+		id:43,
+		NameOfFilm:"Ant Man And The Wasp Poster",
+		FilmsLink:"https://www.playimdb.com/title/tt5095030/",
+		FilmPhoto:"https://i.pinimg.com/736x/9e/8c/2e/9e8c2e8d0c222cc8a9ebdb9119757bcb.jpg"
+	},
+	{
+		id:44,
+		NameOfFilm:"Ant-Man and the Wasp: Quantumania",
+		FilmsLink:"https://www.playimdb.com/title/tt10954600/",
+		FilmPhoto:"https://i.pinimg.com/1200x/16/72/3a/16723a346195b876ad98102ad6628a1d.jpg"
+	},
+	{
+		id:45,
+		NameOfFilm:"Thunderbolts",
+		FilmsLink:"https://www.playimdb.com/title/tt20969586/",
+		FilmPhoto:"https://i.pinimg.com/736x/ed/49/6c/ed496cb11596d09251788bb711ce5574.jpg"
+	},
+	{
+		id:46,
+		NameOfFilm:"Hawkeye",
+		FilmsLink:"https://www.playimdb.com/title/tt10160804/",
+		FilmPhoto:"https://i.pinimg.com/736x/6c/0d/c5/6c0dc5abae448b8b76ad4703bf190d88.jpg"
 	}	
 ];
